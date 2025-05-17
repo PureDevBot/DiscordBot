@@ -73,13 +73,13 @@
 </head>  
 <body>
   <center>
-    <p class="title">LucasDevAdminBot</p>
+    <p class="title">PeruDevAdminBotOficial</p>
   </center>
   <div>
-    <a href="https://discord.com/oauth2/authorize?client_id=1370767175513538741">
+    <a href="https://discord.com/oauth2/authorize?client_id=1373446705936334902&permissions=9330817887304&integration_type=0&scope=bot">
       <button class="grow">Me adicione</button>
     </a>
-    <a href="https://discord.gg/EYdpBA2v4H">
+    <a href="https://discord.gg/ktkMvw3fjY">
       <button class="grow">Entre</button>
     </a>
     <br><br><br>
