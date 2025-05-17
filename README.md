@@ -83,7 +83,7 @@
       <button class="grow">Entre</button>
     </a>
     <br><br><br>
-    <iframe src="https://discordapp.com/widget?id=1370899075326542014&theme=dark" width="350" height="50" allowtransparency="true" frameborder="0"></iframe>
+    <iframe src="https://discordapp.com/widget?id=1373060342590079058&theme=dark" width="350" height="50" allowtransparency="true" frameborder="0"></iframe>
   </div>
 </body>
 </html>
